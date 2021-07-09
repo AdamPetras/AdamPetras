@@ -24,6 +24,7 @@ I've decided to leave the University and stay in work and improve myself in spec
 
 ## Timeline
 5 2019 - Started to work in VTU s. p. branch VTÚVM as C# WPF Developer
+5 2021 - Started to work in Anete spol. s.r.o. as C# Developer
 <!--
 **AdamPetras/AdamPetras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
